@@ -1,0 +1,221 @@
+/*Login Window*/
+#loginDIV{
+  border: 5px solid #A7C4BC;
+  height: 220px;
+  width: 30%;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow:  20px 20px 12px #343d47;
+}
+
+#LoginConcat{
+  margin: 15% 25%;
+}
+
+.loginEra{
+  margin: auto;
+  width: 100%;
+}
+/*Home*/
+#homeDiv{
+margin: 18% 40%;
+text-align: center;
+}
+
+
+/*Home Page*/
+#homeTbl{
+margin: auto;
+width: 50% !important; 
+}
+/* Department Window */
+#departTbl {
+margin: auto;
+width: 50% !important; 
+}
+
+#headerDiv{
+margin: 9% 0%;
+}
+
+#editDeptDiv{
+margin: 15% 0%;
+text-align: center;
+}
+
+
+/*********Employees Pages*****/
+/*Emps Table*/
+#empHaderDiv{
+margin: 10% 0%;
+text-align: center;
+/* display: flex; */
+}
+#empsTbl {
+margin: auto;
+width: 60% !important; 
+}
+
+
+#srchhHaderDiv{
+margin: 5%  0 0 0;
+text-align: center;
+}
+
+#srchResTbl {
+margin: auto;
+width: 80% !important; 
+}
+
+/***********Shifts pages***********/
+
+.col-sm-3{
+flex: 0 0 0 15%;
+}
+
+#shiftTbl{
+margin: auto;
+width: 50% !important; 
+}
+
+#shiftHaderDiv{
+margin: 5% 0 0 0 ;
+}
+
+#empChoseShiftDiv{
+margin: 15% 0 0 0 ;
+}
+
+
+/*Login failed modal */
+/* The Modal (background) */
+.modal1 {
+display: none; /* Hidden by default */
+position: fixed; /* Stay in place */
+z-index: 1; /* Sit on top */
+left: 0;
+top: 0;
+width: 100%; /* Full width */
+height: 100%; /* Full height */
+overflow: auto; /* Enable scroll if needed */
+background-color: rgb(0,0,0); /* Fallback color */
+background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+.modal-header1 {
+padding: 2px 16px;
+background-color: #5cb85c;
+color: white;
+}
+
+/* Modal Content/Box */
+.modal-content1 {
+background-color: #fefefe;
+margin: 20% auto; /* 15% from the top and centered */
+padding: 20px;
+top: 200; 
+border: 1px solid #888;
+border-radius: 5px;
+width: 30%; /* Could be more or less, depending on screen size */
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+animation-name: animatetop;
+animation-duration: 0.35s
+}
+
+@keyframes animatetop {
+from {position: relative;
+  top: -300px; opacity: 0}
+to {top: 0; opacity: 1}
+}
+
+/* The Close Button */
+.close {
+color: #aaa;
+float: right;
+font-size: 28px;
+font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+color: black;
+text-decoration: none;
+cursor: pointer;
+}
+
+
+
+
+
+
+/* TAB-Bar */
+.tab{
+max-width: 800%;
+padding: 0 2em;
+border-radius:0 0 50px 40px;
+background-color: #2F5D62;
+line-height: 2em;
+font-weight: bold;
+white-space: nowrap;
+overflow: auto;
+transition:  all 0.5s linear;
+box-shadow: 5px 5px 20px #000; 
+}
+
+.tab-items{
+margin:0;
+padding: 0;
+list-style: none;
+display: inline-grid;
+grid-gap: 1em;
+transition: color 5s ease-in;
+}
+
+.tab-items> :nth-child(1){
+grid-column: 1/2;
+}
+.tab-items> :nth-child(2){
+grid-column: 2/3;
+}
+.tab-items> :nth-child(3){
+grid-column: 3/4;
+}
+.tab-items> :nth-child(4){
+grid-column: 4/5;
+}
+.tab-items> :nth-child(5){
+grid-column: 5/6;
+}
+
+.tab-item{
+display: inline;
+grid-row: 1/2;
+}
+
+.item-link{
+color:white;
+}
+
+.tab-item.active .item-link{
+color: pink
+}
+.item.link{
+padding:0 0.75em;
+color:#fff;
+text-decoration: none;
+display: inline-block;
+transition: color 256ms;
+}
+.item-link:hover{
+color: #297;
+text-decoration: underline;
+}
+.tab-indicator{
+height: 3px;
+background-color: yellow;
+border-radius: 3px 3px 0 0;
+grid-column: var(--index)/span 1 
+!important;
+grid-row: 1/2;
+align-self: end;
+}
+

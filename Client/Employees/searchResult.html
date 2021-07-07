@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Styles-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../Master.css">
+    <!--Scripts-->
+    <script src="../Master.js"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+        crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/4b69ecbefa.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+    <title>Employees Info</title>
+</head>
+
+<body onload="GetName(); searchResult();">
+
+    <div class="tab">
+        <ul class="tab-items">
+            <li class="tab-item">
+                <a class="item-link" onclick="select(this)" href="../HomePage.html">
+                    <i class="fas fa-home"></i>Home</a>
+            </li>
+            <li class="tab-item">
+                <a class="item-link" onclick="select(this)" href="../Department/Department.html">
+                    <i class="far fa-building"></i> Departments</a>
+            </li>
+            <li class="tab-item">
+                <a class="item-link" onclick="select(this)" href="../Employees/Employees.html">
+                    <i class="fas fa-users"></i> Employess</a>
+            </li>
+            <li class="tab-item">
+                <a class="item-link" onclick="select(this)" href="../Shifts/Shifts.html">
+                    <i class="fas fa-calendar-week"></i> Shifts</a>
+            </li>
+            <li class="tab-item" id="logout-item">
+                <a class="item-link" onclick="select(this)" href="../Login.html">
+                    <i class="fas fa-sign-out-alt"></i>LogOut</a>
+            </li>
+            <div class="tab-indicator"></div>
+        </ul>
+    </div>
+
+
+    <div id="srchhHaderDiv" class="container-fluid">
+        <div id="deptHeaders" class="container-fluid text-center">
+            <h4 id="nameOfUser"></h4>
+            <h3 id="resHeader">Here are the search result</h3>
+        </div>
+    </div>
+
+    <div class="container-fluid text-center">
+        <button class="btn btn-info" onclick="window.location.href = 'Employees.html'">Back</button>
+
+        <table class="table table-bordered table-striped" border=5 id="srchResTbl">
+            <thead style="background-color:#A7C4BC; color: white;">
+                <tr>
+                    <td style="width:10%;">Name</td>
+                    <td style="width:10%;">Department</td>
+                    <td style="width:10%;">Shifts Info</td>
+                </tr>
+            </thead>
+        </table>
+    </div>

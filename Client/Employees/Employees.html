@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Styles-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../Master.css">
+    <!--Scripts-->
+    <script src="../Master.js"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+        crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/4b69ecbefa.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+    <title>Employees Info</title>
+</head>
+
+<body onload="GetName(); ShowEmpData();">
+
+    <div class="tab">
+        <ul class="tab-items">
+            <li class="tab-item">
+                <a class="item-link" onclick="select(this)" href="../HomePage.html">
+                    <i class="fas fa-home"></i>Home</a>
+            </li>
+            <li class="tab-item">
+                <a class="item-link" onclick="select(this)" href="../Department/Department.html">
+                    <i class="far fa-building"></i> Departments</a>
+            </li>
+            <li class="tab-item">
+                <a class="item-link" onclick="select(this)" href="../Employees/Employees.html">
+                    <i class="fas fa-users"></i> Employess</a>
+            </li>
+            <li class="tab-item">
+                <a class="item-link" onclick="select(this)" href="../Shifts/Shifts.html">
+                    <i class="fas fa-calendar-week"></i> Shifts</a>
+            </li>
+            <li class="tab-item" id="logout-item">
+                <a class="item-link"  onclick="select(this)" href="../Login.html">
+                    <i class="fas fa-sign-out-alt"></i>LogOut</a>
+            </li>
+            <div class="tab-indicator"></div>
+        </ul>
+    </div>
+
+
+    <!--Employees Data Table-->
+    <div id="emphHaderDiv" class="container-fluid">
+        <div id="deptHeaders" class="container-fluid text-center">
+            <h4 id="nameOfUser"></h4>
+            <h3>Employess Info</h3>
+    </div>
+    <div class="container-fluid text-center" id="searchDiv">
+        <span>Search By:</span>
+        <Select id="srchBy">
+            <option value="fname">First Name</option>
+            <option value="lname">Last Name</option>
+            <option value="dept">Department</option>
+        </Select>
+        <input type="search" name="" id="inpSrch">
+        <input type="button" value="Search" class="btn btn-success" 
+        onclick="window.location.href ='searchResult.html?inp='+inpSrch.value+'&'+'by='+srchBy.value;">
+    </div>
+    <div id="deptTableDiv" class="container-fluid text-center">
+        <table class="table table-bordered table-striped" border=5 id="empsTbl">
+            <thead style="background-color:#A7C4BC; color: white;">
+                <tr>
+                    <td>
+                        <strong>Name</strong>
+                    </td>
+                    <td>
+                        <strong>Year Join</strong>
+                    </td>
+                    <td>
+                        <strong>Department</strong>
+                    </td>
+                    <td>
+                        <strong>Shifts Info</strong>
+                    </td>
+                    <td>
+                        <strong>Actions</strong>
+                    </td>
+                    
+                </tr>
+            </thead>
+            <tbody id="deptTbody">
+
+            </tbody>
+        </table>
+    </div>
+     </div>
+
+     <div id="myModal" class="modal1" style="display: none;">
+
+        <div class="modal-content1">
+            <header>
+            <span class="close">&times;</span>
+        <h3 id="delStatus">Delete All Employee Data?</h3>
+        </header>
+<button id="cBtn" class="btn btn-info">Cancel</button>       
+<button  id="yBtn" class="btn btn-danger">Yes</button> 
+</div>
+    </div>
+
+
+   
+
+    </body>
+</html>

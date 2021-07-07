@@ -1,0 +1,184 @@
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\ASPNETFINAL.dll.config
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\ASPNETFINAL.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\ASPNETFINAL.pdb
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\csc.exe
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\csc.exe.config
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\csc.rsp
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\csi.exe
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\csi.exe.config
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\csi.rsp
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.AppContext.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Collections.Immutable.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Console.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Globalization.Calendars.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.IO.Compression.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.IO.FileSystem.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Net.Http.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Net.Sockets.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Reflection.Metadata.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.ValueTuple.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Xml.XPath.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\vbc.exe
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\vbc.exe.config
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\vbc.rsp
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\VBCSCompiler.exe
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\VBCSCompiler.exe.config
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\Antlr3.Runtime.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\EntityFramework.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\EntityFramework.SqlServer.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\Microsoft.Web.Infrastructure.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\Newtonsoft.Json.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Net.Http.Formatting.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Cors.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Helpers.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Http.Cors.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Http.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Http.WebHost.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Mvc.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Optimization.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Razor.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.WebPages.Deployment.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.WebPages.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.WebPages.Razor.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\WebGrease.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\EntityFramework.xml
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\EntityFramework.SqlServer.xml
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Http.Cors.xml
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\Newtonsoft.Json.xml
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Net.Http.Formatting.xml
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Helpers.xml
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Http.xml
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Http.WebHost.xml
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Mvc.xml
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Optimization.xml
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Razor.xml
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.WebPages.xml
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.WebPages.Deployment.xml
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.WebPages.Razor.xml
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\Antlr3.Runtime.pdb
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\obj\Debug\ASPNETFINAL.csproj.AssemblyReference.cache
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\obj\Debug\ASPNETFINAL.csproj.CoreCompileInputs.cache
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\obj\Debug\ASPNETFINAL.csproj.CopyComplete
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\obj\Debug\ASPNETFINAL.dll
+E:\Techinon - First Project - Copy\Server\ASPNETFINAL\ASPNETFINAL\obj\Debug\ASPNETFINAL.pdb
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\ASPNETFINAL.dll.config
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\ASPNETFINAL.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\ASPNETFINAL.pdb
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\csc.exe
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\csc.exe.config
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\csc.rsp
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\csi.exe
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\csi.exe.config
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\csi.rsp
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.AppContext.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Console.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.IO.Compression.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Net.Http.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.ValueTuple.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\vbc.exe
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\vbc.exe.config
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\vbc.rsp
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\VBCSCompiler.exe
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\Antlr3.Runtime.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\EntityFramework.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\EntityFramework.SqlServer.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\Newtonsoft.Json.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Net.Http.Formatting.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Cors.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Helpers.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Http.Cors.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Http.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Http.WebHost.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Mvc.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Optimization.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Razor.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.WebPages.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.WebPages.Razor.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\WebGrease.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\EntityFramework.xml
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\EntityFramework.SqlServer.xml
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Http.Cors.xml
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\Newtonsoft.Json.xml
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Net.Http.Formatting.xml
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Helpers.xml
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Http.xml
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Http.WebHost.xml
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Mvc.xml
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Optimization.xml
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.Razor.xml
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.WebPages.xml
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\System.Web.WebPages.Razor.xml
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\Antlr3.Runtime.pdb
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\obj\Debug\ASPNETFINAL.csproj.AssemblyReference.cache
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\obj\Debug\ASPNETFINAL.csproj.CoreCompileInputs.cache
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\obj\Debug\ASPNETFINAL.csproj.CopyComplete
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\obj\Debug\ASPNETFINAL.dll
+C:\Users\Neria M. Lister\Desktop\FactoryMGMT Final Project\Server\ASPNETFINAL\ASPNETFINAL\obj\Debug\ASPNETFINAL.pdb
