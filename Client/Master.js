@@ -112,8 +112,13 @@ async function ShowDepartment() {
   dept.forEach(dept => {
     const newRow = departTbl.insertRow();
     const deptName = newRow.insertCell().innerText = dept.name;
-    const deptManager = newRow.insertCell().innerText = dept.fullName;
-
+    const deptManager = newRow.insertCell()
+   if(dept.fullName != null){
+    deptManager.innerText = dept.fullName;
+   }else{
+    deptManager.style.color ="red"
+    deptManager.innerText = "No Manager was set"
+   }
     if (dept.theresEmp == false) {
       let delBtn = document.createElement("input");
       delBtn.setAttribute("type", "button");
@@ -352,36 +357,34 @@ async function ShowEmpData() {
     shiftTblInTbl.appendChild(startTimeHead);
     shiftTblInTbl.appendChild(endTimeHead);
 
+    
+    
     let tdHoldShiftbl = document.createElement("td");
 
+    if(emp.empShift.length == 0){
+      tdHoldShiftbl.innerText = "There are no associated shifts";
+      tdHoldShiftbl.style.color = "red"
+    }else{
+      emp.empShift.forEach(shift => {
+      //Adding actual shifts
+      tdHoldShiftbl.appendChild(shiftTblInTbl);
+      let trForInnerTbl = document.createElement("tr")
 
-    emp.empShift.forEach(shift => {
-      if (emp.empShift == null) {
-        tdHoldShiftbl.innerText = "theres no shift";
-      } else {
+      let date = document.createElement("td")
+      let start = document.createElement("td")
+      let end = document.createElement("td")
 
-        
-        //Adding actual shifts
-        tdHoldShiftbl.appendChild(shiftTblInTbl);
-        let trForInnerTbl = document.createElement("tr")
+      date.innerText = convertDate(shift.date);
+      start.innerText = shift.startTime;
+      end.innerText = shift.endTime;
 
-        let date = document.createElement("td")
-        let start = document.createElement("td")
-        let end = document.createElement("td")
+      trForInnerTbl.appendChild(date);
+      trForInnerTbl.appendChild(start);
+      trForInnerTbl.appendChild(end);
 
-        date.innerText = convertDate(shift.date);
-        start.innerText = shift.startTime;
-        end.innerText = shift.endTime;
-
-        trForInnerTbl.appendChild(date);
-        trForInnerTbl.appendChild(start);
-        trForInnerTbl.appendChild(end);
-
-        shiftTblInTbl.appendChild(trForInnerTbl);
-      }
-
-    })
-
+      shiftTblInTbl.appendChild(trForInnerTbl);
+      })
+    }
     trObj.appendChild(tdNameObj);
     trObj.appendChild(trYear);
     trObj.appendChild(tdDeptObj);
